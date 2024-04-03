@@ -1,0 +1,14 @@
+http:
+  port: "8081"
+
+database:
+  host: "localhost"
+  user: "system"
+  port: "1521"
+  instance: "orcl"
+  password: "![A0GnigmYkCS3b324s9Wl9w==]"
+  
+
+    
+    
+    
